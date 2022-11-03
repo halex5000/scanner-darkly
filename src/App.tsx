@@ -1,10 +1,10 @@
 /* eslint-disable unicorn/filename-case */
-import './App.css';
+import React from 'react';
 
 function App() {
 	return (
 		<div className='App'>
-			<h1>ScannerDarkly</h1>
+			<small>redirecting</small>
 		</div>
 	);
 }
